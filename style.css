@@ -1,0 +1,40 @@
+body
+{
+    background-color: #28f;
+    width: 450px;
+    padding-top: 110px;
+}
+
+#wrapper2
+{
+    position: relative;
+    left: 450px;
+    background-color: aqua;
+}
+
+h3
+{
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+form
+{
+    text-align: center;
+}
+
+#overly2
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+    font-size: larger;
+}
+
+#top1
+{
+    text-align: center;
+    border-radius: 5px;
+    border-color: #000;
+}
